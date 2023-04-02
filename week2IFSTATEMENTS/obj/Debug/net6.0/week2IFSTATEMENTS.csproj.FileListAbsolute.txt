@@ -1,0 +1,15 @@
+C:\Users\monster\source\repos\week2IFSTATEMENTS\week2IFSTATEMENTS\bin\Debug\net6.0\week2IFSTATEMENTS.exe
+C:\Users\monster\source\repos\week2IFSTATEMENTS\week2IFSTATEMENTS\bin\Debug\net6.0\week2IFSTATEMENTS.deps.json
+C:\Users\monster\source\repos\week2IFSTATEMENTS\week2IFSTATEMENTS\bin\Debug\net6.0\week2IFSTATEMENTS.runtimeconfig.json
+C:\Users\monster\source\repos\week2IFSTATEMENTS\week2IFSTATEMENTS\bin\Debug\net6.0\week2IFSTATEMENTS.dll
+C:\Users\monster\source\repos\week2IFSTATEMENTS\week2IFSTATEMENTS\bin\Debug\net6.0\week2IFSTATEMENTS.pdb
+C:\Users\monster\source\repos\week2IFSTATEMENTS\week2IFSTATEMENTS\obj\Debug\net6.0\week2IFSTATEMENTS.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\week2IFSTATEMENTS\week2IFSTATEMENTS\obj\Debug\net6.0\week2IFSTATEMENTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\week2IFSTATEMENTS\week2IFSTATEMENTS\obj\Debug\net6.0\week2IFSTATEMENTS.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\week2IFSTATEMENTS\week2IFSTATEMENTS\obj\Debug\net6.0\week2IFSTATEMENTS.AssemblyInfo.cs
+C:\Users\monster\source\repos\week2IFSTATEMENTS\week2IFSTATEMENTS\obj\Debug\net6.0\week2IFSTATEMENTS.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\week2IFSTATEMENTS\week2IFSTATEMENTS\obj\Debug\net6.0\week2IFSTATEMENTS.dll
+C:\Users\monster\source\repos\week2IFSTATEMENTS\week2IFSTATEMENTS\obj\Debug\net6.0\refint\week2IFSTATEMENTS.dll
+C:\Users\monster\source\repos\week2IFSTATEMENTS\week2IFSTATEMENTS\obj\Debug\net6.0\week2IFSTATEMENTS.pdb
+C:\Users\monster\source\repos\week2IFSTATEMENTS\week2IFSTATEMENTS\obj\Debug\net6.0\week2IFSTATEMENTS.genruntimeconfig.cache
+C:\Users\monster\source\repos\week2IFSTATEMENTS\week2IFSTATEMENTS\obj\Debug\net6.0\ref\week2IFSTATEMENTS.dll
